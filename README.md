@@ -44,5 +44,5 @@ Notes
 2. Multiple models were evaluated during development; the app uses one selected high-performing model. Other saved models can be swapped as needed for experimentation.
 
 References
--Sayed, E. H., Alabrah, A., Rahouma, K. H., Zohaib, M. and Badry, R. M. (2024), ‘Machine learning and deep learning for loan prediction in banking: Exploring ensemble methods and data balancing’, IEEE Access.
--Naik, K. (2021), ‘Predicting credit risk for unsecured lending: A machine learning approach’, arXiv preprint arXiv:2110.02206 .
+1. Sayed, E. H., Alabrah, A., Rahouma, K. H., Zohaib, M. and Badry, R. M. (2024), ‘Machine learning and deep learning for loan prediction in banking: Exploring ensemble methods and data balancing’, IEEE Access.
+2. Naik, K. (2021), ‘Predicting credit risk for unsecured lending: A machine learning approach’, arXiv preprint arXiv:2110.02206 .
