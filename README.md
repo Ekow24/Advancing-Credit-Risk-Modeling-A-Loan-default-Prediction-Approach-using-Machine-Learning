@@ -1,6 +1,5 @@
 # Advancing-Credit-Risk-Modeling-A-Loan-default-Prediction-Approach-using-Machine-Learning
 
-Loan Default Prediction Application
 This is a web-based decision support system for predicting the likelihood of loan default. Built with Streamlit, the application allows users to input borrower and loan information, applies preprocessing and dimensionality reduction, and predicts whether a loan is likely to be paid back or default.
 Features
 •	Accepts key borrower and loan parameters as input:
