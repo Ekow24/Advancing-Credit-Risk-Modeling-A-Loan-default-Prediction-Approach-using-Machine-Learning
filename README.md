@@ -34,15 +34,15 @@ streamlit run app.py in your terminal
 4.	Optionally, check Show input data to view the processed input.
 
 Files
-•	app.py — Main Streamlit application.
-•	scaler.pkl — Pretrained StandardScaler for input normalization.
-•	pca.pkl — PCA transformer for dimensionality reduction.
-•	trained_rf_model.pkl — Trained Random Forest classifier.
+1. app.py — Main Streamlit application.
+2. scaler.pkl — Pretrained StandardScaler for input normalization.
+3. pca.pkl — PCA transformer for dimensionality reduction.
+4. trained_rf_model.pkl — Trained Random Forest classifier.
 
 Notes
-•	The app is currently for local use only and has not been deployed publicly.
-•	Multiple models were evaluated during development; the app uses one selected high-performing model. Other saved models can be swapped as needed for experimentation.
+1. The app is currently for local use only and has not been deployed publicly.
+2. Multiple models were evaluated during development; the app uses one selected high-performing model. Other saved models can be swapped as needed for experimentation.
 
 References
-•	Sayed, E. H., Alabrah, A., Rahouma, K. H., Zohaib, M. and Badry, R. M. (2024), ‘Machine learning and deep learning for loan prediction in banking: Exploring ensemble methods and data balancing’, IEEE Access.
-•	Naik, K. (2021), ‘Predicting credit risk for unsecured lending: A machine learning approach’, arXiv preprint arXiv:2110.02206 .
+-Sayed, E. H., Alabrah, A., Rahouma, K. H., Zohaib, M. and Badry, R. M. (2024), ‘Machine learning and deep learning for loan prediction in banking: Exploring ensemble methods and data balancing’, IEEE Access.
+-Naik, K. (2021), ‘Predicting credit risk for unsecured lending: A machine learning approach’, arXiv preprint arXiv:2110.02206 .
