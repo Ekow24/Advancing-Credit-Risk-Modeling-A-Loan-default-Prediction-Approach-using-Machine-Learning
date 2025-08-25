@@ -34,10 +34,10 @@ streamlit run app.py in your terminal
 4.	Optionally, check Show input data to view the processed input.
 
 Files
-1. app.py — Main Streamlit application.
-2. scaler.pkl — Pretrained StandardScaler for input normalization.
-3. pca.pkl — PCA transformer for dimensionality reduction.
-4. trained_rf_model.pkl — Trained Random Forest classifier.
+1. app.py: Main Streamlit application.
+2. scaler.pkl: Pretrained StandardScaler for input normalization.
+3. pca.pkl: PCA transformer for dimensionality reduction.
+4. trained_rf_model.pkl: Trained Random Forest classifier.
 
 Notes
 1. The app is currently for local use only and has not been deployed publicly.
