@@ -2,7 +2,7 @@
 
 This is a web-based decision support system for predicting the likelihood of loan default. Built with Streamlit, the application allows users to input borrower and loan information, applies preprocessing and dimensionality reduction, and predicts whether a loan is likely to be paid back or default.
 
-Data Source
+Data Source:
 This project uses the Loan Default Dataset from Kaggle.  
 It contains borrower and loan-level information used to model and predict default risk.  
 
